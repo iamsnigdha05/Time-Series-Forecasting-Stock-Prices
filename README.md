@@ -1,0 +1,5 @@
+-Three models.
+-traditional statistical model (ARIMA).
+-machine learning model ( LSTM, Prophet).
+- comparison with RMSE, MAPE.
+ -ARIMA generalizes better performance.
